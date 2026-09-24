@@ -1,11 +1,9 @@
 # Drowser releases
 
-Official distribution repository for Drowser, a native macOS browser.
+Official macOS downloads and release assets for Drowser.
 
-- [Published releases](https://github.com/drowser-dev/static/releases)
-- Release notes and artwork for upcoming and published versions: `releases/<version>/`
-- DMG installers and the signed update feed are attached to GitHub Releases.
+- [Download the latest version](https://github.com/drowser-dev/static/releases/latest)
+- [Signed update feed](https://github.com/drowser-dev/static/releases/latest/download/appcast.xml)
 
-Requires macOS 26 or later. Universal builds support Apple Silicon and Intel.
-
-The desktop application source is maintained separately in a private repository.
+Release notes and artwork live in `releases/<version>/`. DMGs are attached to GitHub Releases.
+Requires macOS 26 or later; universal builds support Apple Silicon and Intel.
